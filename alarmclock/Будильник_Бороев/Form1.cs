@@ -130,6 +130,7 @@ namespace Будильник_Бороев
 
         private void button1_Click(object sender, EventArgs e)
         {
+            //прппрппрппрппрпрппррпрппррпрппр
                 if ((label3.Text != "") && (label2.Text != "________"))
                 {
                     string a = label2.Text;
