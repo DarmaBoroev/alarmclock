@@ -1,0 +1,63 @@
+c:\users\achyty\documents\visual studio 2013\Projects\Будильник_Бороев\Будильник_Бороев\bin\Debug\Будильник_Бороев.exe.config
+c:\users\achyty\documents\visual studio 2013\Projects\Будильник_Бороев\Будильник_Бороев\bin\Debug\Будильник_Бороев.exe
+c:\users\achyty\documents\visual studio 2013\Projects\Будильник_Бороев\Будильник_Бороев\bin\Debug\Будильник_Бороев.pdb
+c:\users\achyty\documents\visual studio 2013\Projects\Будильник_Бороев\Будильник_Бороев\obj\Debug\Будильник_Бороев.csprojResolveAssemblyReference.cache
+c:\users\achyty\documents\visual studio 2013\Projects\Будильник_Бороев\Будильник_Бороев\obj\Debug\Будильник_Бороев.Form1.resources
+c:\users\achyty\documents\visual studio 2013\Projects\Будильник_Бороев\Будильник_Бороев\obj\Debug\Будильник_Бороев.Properties.Resources.resources
+c:\users\achyty\documents\visual studio 2013\Projects\Будильник_Бороев\Будильник_Бороев\obj\Debug\Будильник_Бороев.csproj.GenerateResource.Cache
+c:\users\achyty\documents\visual studio 2013\Projects\Будильник_Бороев\Будильник_Бороев\obj\Debug\Будильник_Бороев.exe
+c:\users\achyty\documents\visual studio 2013\Projects\Будильник_Бороев\Будильник_Бороев\obj\Debug\Будильник_Бороев.pdb
+c:\users\achyty\documents\visual studio 2013\Projects\Будильник_Бороев\Будильник_Бороев\bin\Debug\Interop.WMPLib.dll
+c:\users\achyty\documents\visual studio 2013\Projects\Будильник_Бороев\Будильник_Бороев\bin\Debug\AxInterop.WMPLib.dll
+c:\users\achyty\documents\visual studio 2013\Projects\Будильник_Бороев\Будильник_Бороев\obj\Debug\Interop.WMPLib.dll
+c:\users\achyty\documents\visual studio 2013\Projects\Будильник_Бороев\Будильник_Бороев\obj\Debug\AxInterop.WMPLib.dll
+c:\users\achyty\documents\visual studio 2013\Projects\Будильник_Бороев\Будильник_Бороев\obj\Debug\Будильник_Бороев.csproj.ResolveComReference.cache
+C:\Users\Дарма\Desktop\Будильник_Бороев1\Будильник_Бороев\bin\Debug\Будильник_Бороев.exe.config
+C:\Users\Дарма\Desktop\Будильник_Бороев1\Будильник_Бороев\obj\Debug\Interop.WMPLib.dll
+C:\Users\Дарма\Desktop\Будильник_Бороев1\Будильник_Бороев\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Дарма\Desktop\Будильник_Бороев1\Будильник_Бороев\obj\Debug\Будильник_Бороев.csproj.ResolveComReference.cache
+C:\Users\Дарма\Desktop\Будильник_Бороев1\Будильник_Бороев\obj\Debug\Будильник_Бороев.exe
+C:\Users\Дарма\Desktop\Будильник_Бороев1\Будильник_Бороев\obj\Debug\Будильник_Бороев.pdb
+C:\Users\Дарма\Desktop\Будильник_Бороев1\Будильник_Бороев\bin\Debug\Будильник_Бороев.exe
+C:\Users\Дарма\Desktop\Будильник_Бороев1\Будильник_Бороев\bin\Debug\Будильник_Бороев.pdb
+C:\Users\Дарма\Desktop\Будильник_Бороев1\Будильник_Бороев\bin\Debug\Interop.WMPLib.dll
+C:\Users\Дарма\Desktop\Будильник_Бороев1\Будильник_Бороев\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Дарма\Desktop\Будильник_Бороев1\Будильник_Бороев\obj\Debug\Будильник_Бороев.csprojResolveAssemblyReference.cache
+C:\Users\Дарма\Desktop\Будильник_Бороев1\Будильник_Бороев\obj\Debug\Будильник_Бороев.Form1.resources
+C:\Users\Дарма\Desktop\Будильник_Бороев1\Будильник_Бороев\obj\Debug\Будильник_Бороев.Properties.Resources.resources
+C:\Users\Дарма\Desktop\Будильник_Бороев1\Будильник_Бороев\obj\Debug\Будильник_Бороев.csproj.GenerateResource.Cache
+C:\Users\Дарма\Desktop\Будильник_Бороев2.1\Будильник_Бороев\bin\Debug\Будильник_Бороев.exe.config
+C:\Users\Дарма\Desktop\Будильник_Бороев2.1\Будильник_Бороев\obj\Debug\Interop.WMPLib.dll
+C:\Users\Дарма\Desktop\Будильник_Бороев2.1\Будильник_Бороев\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Дарма\Desktop\Будильник_Бороев2.1\Будильник_Бороев\obj\Debug\Будильник_Бороев.csproj.ResolveComReference.cache
+C:\Users\Дарма\Desktop\Будильник_Бороев2.1\Будильник_Бороев\obj\Debug\Будильник_Бороев.exe
+C:\Users\Дарма\Desktop\Будильник_Бороев2.1\Будильник_Бороев\obj\Debug\Будильник_Бороев.pdb
+C:\Users\Дарма\Desktop\Будильник_Бороев2.1\Будильник_Бороев\bin\Debug\Будильник_Бороев.exe
+C:\Users\Дарма\Desktop\Будильник_Бороев2.1\Будильник_Бороев\bin\Debug\Будильник_Бороев.pdb
+C:\Users\Дарма\Desktop\Будильник_Бороев2.1\Будильник_Бороев\bin\Debug\Interop.WMPLib.dll
+C:\Users\Дарма\Desktop\Будильник_Бороев2.1\Будильник_Бороев\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Дарма\Desktop\Будильник_Бороев2.1\Будильник_Бороев\obj\Debug\Будильник_Бороев.csprojResolveAssemblyReference.cache
+C:\Users\Дарма\Desktop\Будильник_Бороев2.1\Будильник_Бороев\obj\Debug\Будильник_Бороев.Form1.resources
+C:\Users\Дарма\Desktop\Будильник_Бороев2.1\Будильник_Бороев\obj\Debug\Будильник_Бороев.Properties.Resources.resources
+C:\Users\Дарма\Desktop\Будильник_Бороев2.1\Будильник_Бороев\obj\Debug\Будильник_Бороев.csproj.GenerateResource.Cache
+C:\Users\Дарма\Desktop\Будильник_Бороев2.1\Будильник_Бороев\obj\Debug\Будильник_Бороев.Form2.resources
+C:\Users\Дарма\Desktop\Будильник_Бороев2.2\Будильник_Бороев\bin\Debug\Будильник_Бороев.exe.config
+C:\Users\Дарма\Desktop\Будильник_Бороев2.2\Будильник_Бороев\obj\Debug\Interop.WMPLib.dll
+C:\Users\Дарма\Desktop\Будильник_Бороев2.2\Будильник_Бороев\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Дарма\Desktop\Будильник_Бороев2.2\Будильник_Бороев\obj\Debug\Будильник_Бороев.csproj.ResolveComReference.cache
+C:\Users\Дарма\Desktop\Будильник_Бороев2.2\Будильник_Бороев\obj\Debug\Будильник_Бороев.exe
+C:\Users\Дарма\Desktop\Будильник_Бороев2.2\Будильник_Бороев\obj\Debug\Будильник_Бороев.pdb
+C:\Users\Дарма\Desktop\Будильник_Бороев2.2\Будильник_Бороев\bin\Debug\Будильник_Бороев.exe
+C:\Users\Дарма\Desktop\Будильник_Бороев2.2\Будильник_Бороев\bin\Debug\Будильник_Бороев.pdb
+C:\Users\Дарма\Desktop\Будильник_Бороев2.2\Будильник_Бороев\bin\Debug\Interop.WMPLib.dll
+C:\Users\Дарма\Desktop\Будильник_Бороев2.2\Будильник_Бороев\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Дарма\Desktop\Будильник_Бороев2.2\Будильник_Бороев\obj\Debug\Будильник_Бороев.csprojResolveAssemblyReference.cache
+C:\Users\Дарма\Desktop\Будильник_Бороев2.2\Будильник_Бороев\obj\Debug\Будильник_Бороев.Form1.resources
+C:\Users\Дарма\Desktop\Будильник_Бороев2.2\Будильник_Бороев\obj\Debug\Будильник_Бороев.Properties.Resources.resources
+C:\Users\Дарма\Desktop\Будильник_Бороев2.2\Будильник_Бороев\obj\Debug\Будильник_Бороев.csproj.GenerateResource.Cache
+C:\alarmD\alarmclock\Будильник_Бороев\bin\Debug\Будильник_Бороев.exe.config
+C:\alarmD\alarmclock\Будильник_Бороев\obj\Debug\Interop.WMPLib.dll
+C:\alarmD\alarmclock\Будильник_Бороев\obj\Debug\AxInterop.WMPLib.dll
+C:\alarmD\alarmclock\Будильник_Бороев\obj\Debug\Будильник_Бороев.csproj.ResolveComReference.cache
+C:\alarmD\alarmclock\Будильник_Бороев\obj\Debug\Будильник_Бороев.exe
+C:\alarmD\alarmclock\Будильник_Бороев\obj\Debug\Будильник_Бороев.pdb
