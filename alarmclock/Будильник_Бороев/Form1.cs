@@ -130,8 +130,8 @@ namespace Будильник_Бороев
 
         private void button1_Click(object sender, EventArgs e)
         {
-            //прппрппрппрппрпрппррпрппррпрппр
-                if ((label3.Text != "") && (label2.Text != "________"))
+            //13242423423423423424242343242
+                if ((label2.Text != "") && (label2.Text != "________"))
                 {
                     string a = label2.Text;
                     DialogResult error = MessageBox.Show("В данный момент в будильник уже записано время. Вы уверены, что хотите перезаписать его?", "Вопрос", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
