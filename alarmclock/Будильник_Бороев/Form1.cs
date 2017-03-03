@@ -27,7 +27,7 @@ namespace Будильник_Бороев
 
             OpenFileDialog open = new OpenFileDialog();
             open.Filter = String.Empty;
-            open.Filter = "Музыкальные файлы|*.mp3; *.mp2; *.wma; *.wav; *.ogg; *.ogm; *.au; *.aif;";
+            open.Filter = "Музыкальные файлы|*.mp3; *.ogg;";
             if (open.ShowDialog() == DialogResult.OK)
             {
                 music = open.FileName;
